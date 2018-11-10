@@ -1,3 +1,16 @@
+## About App
+
+emoticon-to-emoji is a simple one-page react app that converts traditional emoticons to emojis. 
+
+## How it works
+
+Just enter your emoticons into the input box and the coresponding emojis will be displayed real-time.
+
+## Script Logic
+
+Emoticons are mapped to their corresponding emoji unicode sequence. Once the user enters any of the emoticons, it is replaced by the corresponding emoji unicode sequence, parsed and displayed.  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
